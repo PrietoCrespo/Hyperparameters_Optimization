@@ -1,0 +1,2 @@
+-66%: con un modelo que le tarda 3h en ejecutar. Con DataAugmentation y 350 epocas.
+https://paperswithcode.com/sota/image-classification-on-cifar-100
